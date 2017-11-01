@@ -5,7 +5,7 @@ SuperTag has great API, this repository contains some examples of how to use sup
 * Go to SuperTag Dashboard and go to Settings -> Api Keys.
 * Click on Create and API key.
 
-![Create API Key](assets/images/Create-API-Key.png)
+![Create API Key](assets/images/Create-API-Key2.png)
 
 ### Making requests through Postman:
 * SuperTag uses Basic Authentication to authenticate the API requests.
